@@ -60,3 +60,13 @@ There is a horizontal line below.
 
 There is a horizontal line above.
 
+
+1. Item 1
+0. Item 2
+0. Item 3
+    - Nested Item 1
+    - Nested Item 2
+        - Double nested Item 1
+        - Double nested Item 2
+    - Nested Item 3
+0. Item 4
