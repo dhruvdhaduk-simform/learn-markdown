@@ -16,3 +16,18 @@ into two lines. (because it had 2 spaces at the end)
 #### Heading 4
 ##### Heading 5
 ###### Heading 6
+
+
+This is **bold** text.  
+This is also __bold__ text.
+
+This is *italic* text.
+This is also _italic_ text.
+
+This is ***bold and italic*** both.  
+This is also ___bold and italic___ both.
+
+This is ~~crossed off~~ text.
+
+This is <mark>highlighted</mark> text.
+
