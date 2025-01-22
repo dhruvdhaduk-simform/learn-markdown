@@ -78,3 +78,7 @@ There is a horizontal line above.
 | an      | example  |
 | table   | with     |
 | two     | columns  |
+
+
+- [ ] Empty Checkbox
+- [x] Checked Checkbox
