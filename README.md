@@ -41,3 +41,7 @@ let x = 500;
 x++;
 console.log(x);
 ```
+
+Links:  
+[Google Link](https://www.google.com)  
+<https://www.google.com>
