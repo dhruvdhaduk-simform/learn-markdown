@@ -52,3 +52,11 @@ Links:
 > This is blockquote.
 >> This is nested blockquote.
 >>> This is double nested blockquote.
+
+
+There is a horizontal line below.
+
+---
+
+There is a horizontal line above.
+
