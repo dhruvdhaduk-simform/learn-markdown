@@ -31,3 +31,6 @@ This is ~~crossed off~~ text.
 
 This is <mark>highlighted</mark> text.
 
+Superscript :- X<sup>2</sup>  
+Subscript :- H<sub>2</sub>O
+
