@@ -45,3 +45,6 @@ console.log(x);
 Links:  
 [Google Link](https://www.google.com)  
 <https://www.google.com>
+
+![This is an image.](image.jpg)
+
