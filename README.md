@@ -34,3 +34,10 @@ This is <mark>highlighted</mark> text.
 Superscript :- X<sup>2</sup>  
 Subscript :- H<sub>2</sub>O
 
+This is code : `let x = 500`
+```js
+// This is block code.
+let x = 500;
+x++;
+console.log(x);
+```
