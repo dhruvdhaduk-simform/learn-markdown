@@ -70,3 +70,11 @@ There is a horizontal line above.
         - Double nested Item 2
     - Nested Item 3
 0. Item 4
+
+
+| Col 1   | Col 2    |
+| :-----: | -------: |
+| This    | is       |
+| an      | example  |
+| table   | with     |
+| two     | columns  |
